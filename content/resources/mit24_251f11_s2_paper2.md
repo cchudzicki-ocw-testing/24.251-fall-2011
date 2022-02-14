@@ -4,7 +4,12 @@ description: This resource contains information related to the kripkenstein para
   and the private world.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/24-251-introduction-to-philosophy-of-language-fall-2011/86acaa96b4ed4e5aaf821e20d30551a5_MIT24_251F11_s2_paper2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: MIT24_251F11_s2_paper2.pdf
+type: OCWFile
 uid: 86acaa96-b4ed-4e5a-af82-1e20d30551a5
 ---
