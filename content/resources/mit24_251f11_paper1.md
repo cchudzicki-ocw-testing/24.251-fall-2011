@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: MIT24_251F11_paper1.pdf
-type: OCWFile
 uid: 4eac292a-f730-b649-684f-6f6f9821a344
 ---

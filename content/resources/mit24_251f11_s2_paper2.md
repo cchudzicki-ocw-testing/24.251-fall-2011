@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: MIT24_251F11_s2_paper2.pdf
-type: OCWFile
 uid: 86acaa96-b4ed-4e5a-af82-1e20d30551a5
 ---
